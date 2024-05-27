@@ -8,4 +8,4 @@ Simplemente ejecute los instaladores que vienen con las descargas para instalar 
 
 forma de configurar una computadora nueva rápidamente con las cosas habituales. Simplemente ejecútelo como administrador y descargará e instalará todo lo que necesita.
 
-#Salida: este script necesita permisos de administrador para funcionar correctamente.
+###Salida: este script necesita permisos de administrador para funcionar correctamente.###
