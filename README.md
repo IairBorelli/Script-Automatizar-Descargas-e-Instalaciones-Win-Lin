@@ -1,4 +1,4 @@
-### Salida: este script necesita permisos de administrador para funcionar correctamente. ###
+### Este script necesita permisos de administrador para funcionar correctamente. ###
 
 Esta herramienta puede descargar e instalar automáticamente programas y aplicaciones populares en computadoras nuevas.
 
